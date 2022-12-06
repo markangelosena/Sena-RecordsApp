@@ -33,7 +33,7 @@
             echo "<h1>$v1 + $v2";
         }else{
             $result = $v1-$v2;  
-            echo "$v1 - $v2";
+            echo "<h1>$v1 - $v2";
         }
         echo "= $result";
     }
